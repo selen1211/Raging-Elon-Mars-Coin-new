@@ -75,7 +75,7 @@ function App() {
     { name: `Funny Pictures`, ref: picturesRef },
     {
       name: "Dexscreener",
-      href: "https://dexscreener.com/solana/0xcomingsoon?__cf_chl_tk=f2FTKAuWvxVyP89rYNHb_PyROQcChfstHHLo7bgw5jc-1719442434-0.0.1.1-7679)"
+      href: "https://dexscreener.com/solana/0x66F5841d9bF8822f14520F36Dce31F6950De9470?__cf_chl_tk=f2FTKAuWvxVyP89rYNHb_PyROQcChfstHHLo7bgw5jc-1719442434-0.0.1.1-7679)"
     },
     {
       name: "Dextools",
@@ -163,7 +163,7 @@ function App() {
                   rel='noreferrer'
                   target='_blank'
                 >
-                  Contract Address: 0xcomingsoon
+                  Contract Address: 0x66F5841d9bF8822f14520F36Dce31F6950De9470
                 </a>
               </div>
             </div>
