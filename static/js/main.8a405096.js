@@ -9558,7 +9558,7 @@
               },
               {
                 name: "Dextools",
-                href: "https://www.dextools.io/app/en/ethereum/pair-explorer/0x66F5841d9bF8822f14520F36Dce31F6950De9470",
+                href: "https://www.dextools.io/app/en/token/remconeth?t=1742007217601",
               },
               { name: "Telegram", href: "https://t.me/remconeth" },
               { name: "Twitter", href: "https://x.com/remconeth" },
